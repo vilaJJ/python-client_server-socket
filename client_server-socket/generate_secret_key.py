@@ -1,7 +1,12 @@
 '''
 Instituto Federal do Tocantins - Campus Araguaína
 11 de dezembro de 2024, quarta-feira.
-Estudante: Juan Felipe Alves Flores
+Estudantes: 
+    - Allan Batista do Nascimento
+    - Beatriz Coelho dos Santos
+    - Juan Felipe Alves Flores
+    - Samylla Marinho da Silva Aguiar
+    - Sara Ghabrielly de Oliveira Silva
 Professor: Luis Henrique Sousa Rodrigues
 Disciplina: Redes de Telecomunicações II
 Curso: Análise e Desenvolvimento de Sistemas        Período: 4°
